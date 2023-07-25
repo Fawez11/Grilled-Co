@@ -9,7 +9,9 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        <img src={images.gericht} alt="app__logo" />
+        <img src={images.gericht} alt="app__logo"  /><h1 style={{ color: 'white', height: '43px' }}>by fawez</h1>
+
+
       </div>
       <ul className="app__navbar-links">
         <li className="p__opensans"><a href="#home">Home</a></li>
