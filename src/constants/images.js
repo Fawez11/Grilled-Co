@@ -1,5 +1,6 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.png';
+import chef1 from '../assets/chef1.png'
 import G from '../assets/G.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
@@ -27,6 +28,7 @@ import gericht from '../assets/grilled-co.png';
 export default {
   bg,
   chef,
+  chef1,
   G,
   gallery01,
   gallery02,
